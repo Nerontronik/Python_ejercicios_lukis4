@@ -1,0 +1,10 @@
+nombre = "marco"
+print(nombre)
+print("*")
+print(type(nombre))
+print("*")
+print("Hola me puedes regalar tu nombre:")
+nombre = input()
+print("*")
+print(nombre, type(nombre))
+print("*")
